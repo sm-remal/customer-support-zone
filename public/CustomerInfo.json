@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1001,
+    "title": "Payment Failed - Card Declined",
+    "description": "Customer reports their payment keeps failing even though their card is valid.",
+    "customer": "Alice Johnson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "07-06-2024"
+  },
+  {
+    "id": 1002,
+    "title": "App Crashes on Launch",
+    "description": "The mobile app crashes immediately after opening on Android 13 devices.",
+    "customer": "David Lee",
+    "priority": "LOW PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "22-07-2024"
+  },
+  {
+    "id": 1003,
+    "title": "Invoice Not Received",
+    "description": "Customer did not receive their invoice for the last billing cycle.",
+    "customer": "Sophia Williams",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "14-08-2024"
+  },
+  {
+    "id": 1004,
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still can't access.",
+    "customer": "Michael Brown",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "30-09-2024"
+  },
+  {
+    "id": 1005,
+    "title": "Delayed Shipping Notification",
+    "description": "Customer claims they did not receive any update regarding delayed shipping.",
+    "customer": "Emma Davis",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "11-10-2024"
+  },
+  {
+    "id": 1006,
+    "title": "Refund Not Processed",
+    "description": "Customer requested a refund two weeks ago, but it hasn't been reflected in their account.",
+    "customer": "Liam Martinez",
+    "priority": "HIGH PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "05-11-2024"
+  },
+  {
+    "id": 1007,
+    "title": "Unable to Update Profile",
+    "description": "Customer is unable to save changes when updating their profile information.",
+    "customer": "Olivia Garcia",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "28-11-2024"
+  },
+  {
+    "id": 1008,
+    "title": "Missing Order Confirmation Email",
+    "description": "Customer placed an order but did not receive the confirmation email.",
+    "customer": "Ethan Wilson",
+    "priority": "LOW PRIORITY",
+    "status": "Open",
+    "createdAt": "15-12-2024"
+  },
+  {
+    "id": 1009,
+    "title": "System Error During Checkout",
+    "description": "Customer encountered an error while trying to complete the checkout process.",
+    "customer": "Ava Anderson",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "10-01-2025"
+  },
+  {
+    "id": 1010,
+    "title": "Subscription Auto-Renewal Issue",
+    "description": "Customer's subscription did not auto-renew even though auto-renewal is enabled.",
+    "customer": "Noah Thomas",
+    "priority": "MEDIUM PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "15-02-2025"
+  },
+  {
+    "id": 1011,
+    "title": "Unable to Download Invoice",
+    "description": "Customer reports the invoice PDF link is broken.",
+    "customer": "Charlotte Taylor",
+    "priority": "LOW PRIORITY",
+    "status": "In-Progress",
+    "createdAt": "27-03-2025"
+  },
+  {
+    "id": 1012,
+    "title": "Two-Factor Authentication Not Working",
+    "description": "Customer is not receiving verification codes for login attempts.",
+    "customer": "James Harris",
+    "priority": "HIGH PRIORITY",
+    "status": "Open",
+    "createdAt": "09-04-2025"
+  }
+]
